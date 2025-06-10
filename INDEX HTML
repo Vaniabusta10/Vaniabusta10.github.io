@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Blog Personal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 40px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #333;
+        }
+        .info {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hola, soy [Tu Nombre]</h1>
+    <div class="info">
+        <p><strong>Edad:</strong> [Tu edad]</p>
+        <p><strong>Ciudad:</strong> [Tu ciudad]</p>
+        <p><strong>Pasatiempos:</strong> Me gusta [tu hobby], [otro hobby], y aprender cosas nuevas.</p>
+        <p><strong>Sobre mí:</strong> Soy una persona [adjetivos tuyos], con interés en [temas que te gustan].</p>
+        <p><strong>Contacto:</strong> [Tu correo o redes sociales]</p>
+    </div>
+</body>
+</html>
