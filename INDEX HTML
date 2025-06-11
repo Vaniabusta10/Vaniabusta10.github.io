@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <title>Mi Blog Personal</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            padding: 40px;
-            background-color: #f4f4f4;
-        }
+      body {
+    font-family: Arial, sans-serif;
+    padding: 40px;
+    background: linear-gradient(to right, #ffdde1, #ee9ca7);
+}
         h1 {
             color: #333;
         }
